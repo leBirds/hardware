@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U2 Old Footprint=HMC5883 New Footprint=HMC5883L
+Change Component Footprint: Designator=U1 Old Footprint=LCC24 - duplicate New Footprint=MPU-6050
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

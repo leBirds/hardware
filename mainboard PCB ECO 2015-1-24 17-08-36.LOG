@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC12 Pin=D1-1
+Removed Pin From Net: NetName=VCC12 Pin=P6-2
+Added Pin To Net: NetName=VCC12 Pin=C8-2
+Added Pin To Net: NetName=VCC12 Pin=C9-1
+Added Pin To Net: NetName=VCC12 Pin=D1-2
+Added Pin To Net: NetName=VCC12 Pin=D2-2
+Added Pin To Net: NetName=VCC12 Pin=U3-1
+Added Pin To Net: NetName=VCCIN Pin=D1-1
+Added Pin To Net: NetName=VCCIN Pin=P6-2
+Added Net: Name=VCCIN
+Added Member To Class: ClassName=mainboard Member=Component C6 Cap
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

@@ -1,0 +1,7 @@
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=GPS_RXD Pin=P8-3
+Added Pin To Net: NetName=GPS_TXD Pin=P8-3
+Removed Pin From Net: NetName=GPS_TXD Pin=P8-4
+Added Pin To Net: NetName=GPS_RXD Pin=P8-4

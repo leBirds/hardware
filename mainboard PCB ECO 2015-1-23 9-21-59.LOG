@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NETLABEL426 Pin=U4-42
+Added Net: Name=NETLABEL426
+Added Pin To Net: NetName=NETLABEL427 Pin=U4-43
+Added Net: Name=NETLABEL427
+Added Pin To Net: NetName=USB+ Pin=P10-3
+Added Pin To Net: NetName=USB+ Pin=U4-33
+Added Net: Name=USB+
+Added Pin To Net: NetName=USB- Pin=P10-2
+Added Pin To Net: NetName=USB- Pin=U4-32
+Added Net: Name=USB-
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

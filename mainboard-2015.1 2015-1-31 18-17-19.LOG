@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=VCC_3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NETLABEL464 Pin=U2-1
+Added Net: Name=NETLABEL464
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

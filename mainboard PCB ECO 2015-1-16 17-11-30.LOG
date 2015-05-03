@@ -1,0 +1,128 @@
+Added Component: Designator=C10_1(1206)
+Added Component: Designator=C19(1608[0603])
+Added Component: Designator=C29(1608[0603])
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=Q2(xtal-5032)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=U1(SOT-223)
+Added Net: Name=6050_INT
+Added Net: Name=AUX_CL
+Added Net: Name=AUX_DA
+Added Pin To Net: NetName=CONTROL_DOWN Pin=P?-4
+Added Net: Name=CONTROL_DOWN
+Added Pin To Net: NetName=CONTROL_LEFT Pin=P?-4
+Added Net: Name=CONTROL_LEFT
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P?-4
+Added Net: Name=CONTROL_RIGHT
+Added Pin To Net: NetName=CONTROL_UP Pin=P?-4
+Added Net: Name=CONTROL_UP
+Added Net: Name=DRDY
+Added Pin To Net: NetName=EXTAL Pin=C19-2
+Added Pin To Net: NetName=EXTAL Pin=Q2-1
+Added Net: Name=EXTAL
+Added Pin To Net: NetName=GND Pin=C10_1-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Net: Name=IIC_SCL
+Added Net: Name=IIC_SDA
+Added Net: Name=INT
+Added Pin To Net: NetName=NetC7_1_1 Pin=U1-1
+Added Net: Name=NetC7_1_1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Net: Name=NetC?_2
+Added Net: Name=NETLABEL235
+Added Net: Name=NETLABEL236
+Added Net: Name=NETLABEL237
+Added Net: Name=NETLABEL238
+Added Net: Name=NETLABEL239
+Added Net: Name=NETLABEL240
+Added Net: Name=NETLABEL241
+Added Net: Name=NETLABEL242
+Added Net: Name=NETLABEL245
+Added Net: Name=NETLABEL246
+Added Net: Name=NETLABEL247
+Added Net: Name=NETLABEL248
+Added Net: Name=NETLABEL249
+Added Net: Name=NETLABEL250
+Added Net: Name=NETLABEL251
+Added Net: Name=NETLABEL252
+Added Net: Name=NETLABEL253
+Added Net: Name=NETLABEL259
+Added Net: Name=NETLABEL260
+Added Net: Name=NETLABEL261
+Added Pin To Net: NetName=NRST Pin=C?-2
+Added Pin To Net: NetName=NRST Pin=R?-1
+Added Net: Name=NRST
+Added Pin To Net: NetName=PWM_DOWN Pin=P?-3
+Added Net: Name=PWM_DOWN
+Added Pin To Net: NetName=PWM_LEFT Pin=P?-3
+Added Net: Name=PWM_LEFT
+Added Pin To Net: NetName=PWM_RIGHT Pin=P?-3
+Added Net: Name=PWM_RIGHT
+Added Pin To Net: NetName=PWM_UP Pin=P?-3
+Added Net: Name=PWM_UP
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Added Net: Name=VCC12
+Added Pin To Net: NetName=VCC Pin=C10_1-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDD Pin=C?-1
+Added Net: Name=VDD
+Added Pin To Net: NetName=XTAL Pin=C29-2
+Added Pin To Net: NetName=XTAL Pin=Q2-2
+Added Net: Name=XTAL
+Added Class: Name=mainboard
+Added Class: Name=power
+Added Class: Name=STM32
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

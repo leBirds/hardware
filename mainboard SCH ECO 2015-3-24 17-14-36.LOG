@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Comment: Designator=P9 Old Comment=BlueTooth New Comment=
+Change Pin Designator/Name:  Old Designator=P9-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=P9-2 Old Name=2 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=P9-3 Old Name=3 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=P9-4 Old Name=4 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=P15-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=P15-2 Old Name=2 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=P15-3 Old Name=3 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=P15-4 Old Name=4 New Designator =4 New Name=4

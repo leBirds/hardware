@@ -1,0 +1,3 @@
+Remove Pin=U2-1 From Net=IIC_SCL
+Remove Pin=U2-15 From Net=DRDY
+Remove Pin=U2-16 From Net=IIC_SDA

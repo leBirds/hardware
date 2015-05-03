@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=CONTROL_LEFT Pin=P1-3
+Removed Pin From Net: NetName=PWM_LEFT Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=CONTROL_RIGHT Pin=P2-3
+Removed Pin From Net: NetName=PWM_RIGHT Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=CONTROL_UP Pin=P3-3
+Removed Pin From Net: NetName=PWM_UP Pin=P3-4
+Removed Pin From Net: NetName=GND Pin=P3-5
+Removed Pin From Net: NetName=CONTROL_DOWN Pin=P4-3
+Removed Pin From Net: NetName=PWM_DOWN Pin=P4-4
+Removed Pin From Net: NetName=GND Pin=P4-5
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X5 New Footprint=motor connect
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X5 New Footprint=motor connect
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X5 New Footprint=motor connect
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X5 New Footprint=motor connect
+Change Component Comment : Designator=P4 Old Comment=Down New Comment=Header 2
+Change Component Comment : Designator=P1 Old Comment=Left New Comment=Header 2
+Change Component Comment : Designator=P2 Old Comment=Right New Comment=Header 2
+Change Component Comment : Designator=P3 Old Comment=Up New Comment=Header 2
+Added Component: Designator=C20(0603)
+Added Component: Designator=P11(HDR1X3)
+Added Component: Designator=P12(HDR1X3)
+Added Component: Designator=P13(HDR1X3)
+Added Component: Designator=P14(HDR1X3)
+Added Component: Designator=R6(0603)
+Added Pin To Net: NetName=VCC_3 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=PWM_LEFT Pin=P11-1
+Added Pin To Net: NetName=CONTROL_LEFT Pin=P11-2
+Added Pin To Net: NetName=GND Pin=P11-3
+Added Pin To Net: NetName=PWM_RIGHT Pin=P12-1
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P12-2
+Added Pin To Net: NetName=GND Pin=P12-3
+Added Pin To Net: NetName=PWM_UP Pin=P13-1
+Added Pin To Net: NetName=CONTROL_UP Pin=P13-2
+Added Pin To Net: NetName=GND Pin=P13-3
+Added Pin To Net: NetName=PWM_DOWN Pin=P14-1
+Added Pin To Net: NetName=CONTROL_DOWN Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P14-3
+Added Pin To Net: NetName=IIC_SCL Pin=R5-1
+Added Pin To Net: NetName=VCC_3 Pin=R5-2
+Added Pin To Net: NetName=IIC_SDA Pin=R6-1
+Added Pin To Net: NetName=VCC_3 Pin=R6-2
+Added Member To Class: ClassName=mainboard Member=Component C20 Cap
+Added Member To Class: ClassName=mainboard Member=Component P11 Header 3
+Added Member To Class: ClassName=mainboard Member=Component P12 Header 3
+Added Member To Class: ClassName=mainboard Member=Component P13 Header 3
+Added Member To Class: ClassName=mainboard Member=Component P14 Header 3
+Added Member To Class: ClassName=mainboard Member=Component R6 Res2
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=CONTROL_DOWN Pin=U4-27
+Added Pin To Net: NetName=CONTROL_UP Pin=U4-27
+Removed Pin From Net: NetName=CONTROL_UP Pin=U4-28
+Added Pin To Net: NetName=CONTROL_DOWN Pin=U4-28

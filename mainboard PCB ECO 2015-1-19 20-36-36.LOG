@@ -1,0 +1,14 @@
+Added Component: Designator=P?(HDR1X6)
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=NRST Pin=P?-6
+Added Pin To Net: NetName=NETLABEL281 Pin=P?-3
+Added Net: Name=NETLABEL281
+Added Pin To Net: NetName=SWD_CLK Pin=P?-5
+Added Net: Name=SWD_CLK
+Added Pin To Net: NetName=SWD_DATA Pin=P?-4
+Added Net: Name=SWD_DATA
+Added Member To Class: ClassName=STM32 Member=Component P? Header 6
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

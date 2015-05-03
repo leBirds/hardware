@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=U4-45
+Removed Pin From Net: NetName=I2C_SDA Pin=U4-46
+Added Pin To Net: NetName=I2C_SCL Pin=U4-14
+Added Pin To Net: NetName=I2C_SDA Pin=U4-15
+Change Net Name : Old Net Name=NETLABEL426 New Net Name=TX
+Change Net Name : Old Net Name=NETLABEL427 New Net Name=RX
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

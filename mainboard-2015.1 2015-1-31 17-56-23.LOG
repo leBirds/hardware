@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CONTROL_DOWN Pin=U4-28
+Added Pin To Net: NetName=CONTROL_DOWN Pin=U4-38
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

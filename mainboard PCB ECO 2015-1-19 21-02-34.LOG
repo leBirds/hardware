@@ -1,0 +1,24 @@
+Change Component Comment : Designator=P5 Old Comment=Header 5 New Comment=DownLoad
+Added Component: Designator=P6(HDR1X4)
+Added Component: Designator=P7(HDR1X4)
+Added Pin To Net: NetName=VCC Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=VCC Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=BLUETOOTH_RXD Pin=P6-4
+Added Pin To Net: NetName=BLUETOOTH_RXD Pin=U4-18
+Added Net: Name=BLUETOOTH_RXD
+Added Pin To Net: NetName=BLUETOOTH_TXD Pin=P6-3
+Added Pin To Net: NetName=BLUETOOTH_TXD Pin=U4-19
+Added Net: Name=BLUETOOTH_TXD
+Added Pin To Net: NetName=GPS_RXD Pin=P7-3
+Added Pin To Net: NetName=GPS_RXD Pin=U4-21
+Added Net: Name=GPS_RXD
+Added Pin To Net: NetName=GPS_TXD Pin=P7-4
+Added Pin To Net: NetName=GPS_TXD Pin=U4-20
+Added Net: Name=GPS_TXD
+Added Member To Class: ClassName=STM32 Member=Component P6 BlueTooth
+Added Member To Class: ClassName=STM32 Member=Component P7 Header 4
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

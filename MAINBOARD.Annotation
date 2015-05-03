@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=P9
+LogicalPartID0=1
+DocumentName0=STM32.SchDoc
+ChannelName0=STM32
+UniqueID0=\CPEAALRR
+PhysicalDesignator0=P15
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+

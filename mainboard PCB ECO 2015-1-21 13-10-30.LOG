@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC12 Pin=D1-1
+Added Component: Designator=12V switch(DPDT-6)
+Added Component: Designator=D3(LED0603)
+Added Component: Designator=R4(0603)
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=Net12V switch_2 Pin=12V switch-2
+Added Pin To Net: NetName=Net12V switch_2 Pin=D1-1
+Added Net: Name=Net12V switch_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R4-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=VCC+12V Pin=12V switch-1
+Added Net: Name=VCC+12V
+Added Member To Class: ClassName=power Member=Component 12V switch SW-DPDT
+Added Member To Class: ClassName=power Member=Component D3 LED1
+Added Member To Class: ClassName=power Member=Component R4 Res2
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=STM32 Member=P11
+Removed Member From Class: ClassName=STM32 Member=P11
+Removed Member From Class: ClassName=STM32 Member=P12
+Removed Member From Class: ClassName=STM32 Member=P12
+Removed Member From Class: ClassName=STM32 Member=P13
+Removed Member From Class: ClassName=STM32 Member=P13
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

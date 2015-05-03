@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=VCC_3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=VCC_3 Pin=C12-2
+Removed Pin From Net: NetName=VCC_3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=VCC_3 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=PWM_UP Pin=U4-10
+Removed Pin From Net: NetName=PWM_DOWN Pin=U4-11
+Removed Pin From Net: NetName=CONTROL_LEFT Pin=U4-14
+Removed Pin From Net: NetName=CONTROL_RIGHT Pin=U4-15
+Removed Pin From Net: NetName=CONTROL_UP Pin=U4-16
+Removed Pin From Net: NetName=CONTROL_DOWN Pin=U4-17
+Removed Pin From Net: NetName=BLUETOOTH_RXD Pin=U4-18
+Removed Pin From Net: NetName=BLUETOOTH_TXD Pin=U4-19
+Removed Pin From Net: NetName=GPS_TXD Pin=U4-20
+Removed Pin From Net: NetName=6050_INT Pin=U4-32
+Removed Pin From Net: NetName=IIC_SCL Pin=U4-33
+Removed Pin From Net: NetName=IIC_SDA Pin=U4-34
+Removed Pin From Net: NetName=GND Pin=U4-44
+Removed Member From Class: ClassName=STM32 Member=C11
+Removed Member From Class: ClassName=STM32 Member=C12
+Removed Member From Class: ClassName=STM32 Member=C13
+Removed Member From Class: ClassName=STM32 Member=C15
+Change Component Footprint: Designator=U4 Old Footprint=TQFP48_L New Footprint=LQFP48_M
+Change Component Comment : Designator=U4 Old Comment=stm32f103c8t6 New Comment=STM32F103C8T6ATR
+Added Component: Designator=C18(0603)
+Added Component: Designator=C19(0603)
+Added Component: Designator=C20(0603)
+Added Component: Designator=C21(0603)
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VCC_3 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VCC_3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC_3 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=VCC_3 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=VCC_3 Pin=U4-1
+Added Pin To Net: NetName=RS232_RXD Pin=U4-22
+Added Pin To Net: NetName=GPS_TXD Pin=U4-30
+Added Pin To Net: NetName=GPS_RXD Pin=U4-31
+Change Net Name : Old Net Name=SED_DATA New Net Name=SWD_DATA
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U4-44
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U4-20
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=STM32 Member=Component C18 Cap
+Added Member To Class: ClassName=STM32 Member=Component C19 Cap
+Added Member To Class: ClassName=STM32 Member=Component C20 Cap
+Added Member To Class: ClassName=STM32 Member=Component C21 Cap
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=PWM_LEFT Pin=U4-12
+Added Pin To Net: NetName=BLUETOOTH_TXD Pin=U4-12
+Removed Pin From Net: NetName=PWM_RIGHT Pin=U4-13
+Added Pin To Net: NetName=BLUETOOTH_RXD Pin=U4-13
+Removed Pin From Net: NetName=GPS_RXD Pin=U4-21
+Added Pin To Net: NetName=RS232_TXD Pin=U4-21

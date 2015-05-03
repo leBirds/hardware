@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC12 Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=VCC Pin=U1-13
+Change Net Name : Old Net Name=VCC New Net Name=VCC_3
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

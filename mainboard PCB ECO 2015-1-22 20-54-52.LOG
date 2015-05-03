@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=14 Pin=P10-2
+Removed Pin From Net: NetName=15 Pin=P10-3
+Removed Pin From Net: NetName=17 Pin=P10-5
+Removed Member From Class: ClassName=STM32 Member=P10
+Change Component Footprint: Designator=P10 Old Footprint=HDR1X12 New Footprint=MICRO_USB
+Change Component Comment : Designator=P10 Old Comment=Header 12 New Comment=Header 5
+Added Component: Designator=P13(HDR1X12)
+Added Pin To Net: NetName=13 Pin=P13-1
+Added Pin To Net: NetName=14 Pin=P13-2
+Added Pin To Net: NetName=15 Pin=P13-3
+Added Pin To Net: NetName=16 Pin=P13-4
+Added Pin To Net: NetName=17 Pin=P13-5
+Added Pin To Net: NetName=18 Pin=P13-6
+Added Pin To Net: NetName=19 Pin=P13-7
+Added Pin To Net: NetName=20 Pin=P13-8
+Added Pin To Net: NetName=21 Pin=P13-9
+Added Pin To Net: NetName=22 Pin=P13-10
+Added Pin To Net: NetName=23 Pin=P13-11
+Added Pin To Net: NetName=24 Pin=P13-12
+Added Member To Class: ClassName=power Member=Component P10 Header 5
+Added Member To Class: ClassName=STM32 Member=Component P13 Header 12
+Removed Pin From Net: NetName=13 Pin=P10-1
+Added Pin To Net: NetName=VCC12 Pin=P10-1
+Removed Pin From Net: NetName=16 Pin=P10-4
+Added Pin To Net: NetName=GND Pin=P10-4

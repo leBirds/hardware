@@ -1,0 +1,7 @@
+Added Component: Designator=P15(KL)
+Added Pin To Net: NetName=GND Pin=P15-1
+Added Pin To Net: NetName=VCC12 Pin=P15-2
+Added Member To Class: ClassName=power Member=Component P15 Header 2
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

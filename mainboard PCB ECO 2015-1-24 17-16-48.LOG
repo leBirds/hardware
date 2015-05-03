@@ -1,0 +1,19 @@
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=AGND Pin=P1-2
+Removed Pin From Net: NetName=AGND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=AGND Pin=P2-2
+Removed Pin From Net: NetName=AGND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=AGND Pin=P3-2
+Removed Pin From Net: NetName=AGND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=AGND Pin=P4-2
+Removed Pin From Net: NetName=AGND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-5

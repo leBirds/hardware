@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=IIC_SDA Pin=U4-14
+Added Pin To Net: NetName=IIC_SCL Pin=U4-15

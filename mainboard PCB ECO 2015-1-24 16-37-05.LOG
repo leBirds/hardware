@@ -1,0 +1,7 @@
+Change Component Comment : Designator=P4 Old Comment=Header 5 New Comment=Down
+Change Component Comment : Designator=P1 Old Comment=Header 5 New Comment=Left
+Change Component Comment : Designator=P2 Old Comment=Header 5 New Comment=Right
+Change Component Comment : Designator=P3 Old Comment=Header 5 New Comment=Up
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

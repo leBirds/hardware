@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=NRST Pin=P5-5
+Added Pin To Net: NetName=SED_DATA Pin=P5-3
+Added Net: Name=SED_DATA
+Added Pin To Net: NetName=SWD_CLK Pin=P5-4
+Added Net: Name=SWD_CLK
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

@@ -1,0 +1,7 @@
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=SWD_CLK Pin=P5-2
+Removed Pin From Net: NetName=SWD_CLK Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P5-4

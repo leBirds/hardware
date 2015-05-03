@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=STM32 Member=P15
+Removed Member From Class: ClassName=STM32 Member=P15
+Removed Member From Class: ClassName=STM32 Member=P15
+Removed Member From Class: ClassName=STM32 Member=P15
+Removed Member From Class: ClassName=STM32 Member=P15
+Added Component: Designator=P9(HDR1X4)
+Added Pin To Net: NetName=VCC_3 Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Pin To Net: NetName=BLUETOOTH_RXD Pin=P9-3
+Added Pin To Net: NetName=BLUETOOTH_TXD Pin=P9-4
+Added Member To Class: ClassName=STM32 Member=Component P9 BlueTooth
+Added Room: Name=STM32

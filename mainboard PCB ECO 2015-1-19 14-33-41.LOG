@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=AUX_DA Pin=U1-6
+Added Pin To Net: NetName=AUX_CL Pin=U1-7
+Added Pin To Net: NetName=VDD Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetC6_2 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=6050_INT Pin=U1-12
+Added Pin To Net: NetName=VDD Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=NetC2_1 Pin=U1-20
+Added Pin To Net: NetName=IIC_SCL Pin=U1-23
+Added Pin To Net: NetName=IIC_SDA Pin=U1-24
+Added Pin To Net: NetName=DRDY Pin=U2-15
+Added Pin To Net: NetName=DRDY Pin=U4-31
+Added Pin To Net: NetName=6050_INT Pin=U4-32
+Added Pin To Net: NetName=IIC_SCL Pin=U4-33
+Added Pin To Net: NetName=IIC_SDA Pin=U4-34
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

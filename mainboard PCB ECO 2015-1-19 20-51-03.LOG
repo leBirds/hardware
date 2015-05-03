@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=STM32 Member=P2
+Removed Member From Class: ClassName=mainboard Member=P3
+Change Component Comment : Designator=P2 Old Comment=Header 5 New Comment=Right
+Change Component Comment : Designator=P3 Old Comment=Up New Comment=Header 5
+Added Member To Class: ClassName=mainboard Member=Component P2 Right
+Added Member To Class: ClassName=STM32 Member=Component P3 Header 5
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=VCC12 Pin=P3-1
+Added Pin To Net: NetName=VCC12 Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=PWM_UP Pin=P3-3
+Added Pin To Net: NetName=PWM_UP Pin=P3-3
+Removed Pin From Net: NetName=CONTROL_UP Pin=P3-4
+Added Pin To Net: NetName=CONTROL_UP Pin=P3-4

@@ -1,0 +1,7 @@
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=IIC_SDA Pin=U4-14
+Added Pin To Net: NetName=IIC_SCL Pin=U4-14
+Removed Pin From Net: NetName=IIC_SCL Pin=U4-15
+Added Pin To Net: NetName=IIC_SDA Pin=U4-15

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BLUETOOTH_TXD Pin=P9-3
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=BLUETOOTH_RXD Pin=P9-4
+Added Pin To Net: NetName=BLUETOOTH_TXD Pin=P9-4

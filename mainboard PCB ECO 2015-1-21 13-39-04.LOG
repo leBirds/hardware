@@ -1,0 +1,27 @@
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=P7(HDR1X4)
+Added Pin To Net: NetName=VCC12 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=PWM_LEFT Pin=P1-3
+Added Pin To Net: NetName=CONTROL_LEFT Pin=P1-4
+Added Pin To Net: NetName=VCC12 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=PWM_RIGHT Pin=P2-3
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P2-4
+Added Pin To Net: NetName=VCC12 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=PWM_UP Pin=P3-3
+Added Pin To Net: NetName=CONTROL_UP Pin=P3-4
+Added Pin To Net: NetName=VCC Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GPS_RXD Pin=P7-3
+Added Pin To Net: NetName=GPS_TXD Pin=P7-4
+Added Member To Class: ClassName=mainboard Member=Component P1 Left
+Added Member To Class: ClassName=mainboard Member=Component P2 Right
+Added Member To Class: ClassName=mainboard Member=Component P3 Up
+Added Member To Class: ClassName=STM32 Member=Component P7 Header 4
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

@@ -1,0 +1,11 @@
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=BLUETOOTH_TXD Pin=U4-12
+Added Pin To Net: NetName=GPS_TXD Pin=U4-12
+Removed Pin From Net: NetName=BLUETOOTH_RXD Pin=U4-13
+Added Pin To Net: NetName=GPS_RXD Pin=U4-13
+Removed Pin From Net: NetName=GPS_TXD Pin=U4-30
+Added Pin To Net: NetName=BLUETOOTH_TXD Pin=U4-30
+Removed Pin From Net: NetName=GPS_RXD Pin=U4-31
+Added Pin To Net: NetName=BLUETOOTH_RXD Pin=U4-31

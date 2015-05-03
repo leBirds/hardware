@@ -1,0 +1,13 @@
+Added Component: Designator=P8(HDR1X4)
+Added Pin To Net: NetName=VCC_3 Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=VCC_3 Pin=U2-2
+Added Pin To Net: NetName=VCC_3 Pin=U2-2
+Added Pin To Net: NetName=RS232_RXD Pin=P8-4
+Added Net: Name=RS232_RXD
+Added Pin To Net: NetName=RX232_TXD Pin=P8-3
+Added Net: Name=RX232_TXD
+Added Member To Class: ClassName=STM32 Member=Component P8 Header 4
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

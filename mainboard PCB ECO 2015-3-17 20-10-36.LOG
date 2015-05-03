@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=STM32 Member=P11
+Removed Member From Class: ClassName=STM32 Member=P11
+Removed Member From Class: ClassName=STM32 Member=P12
+Removed Member From Class: ClassName=STM32 Member=P12
+Removed Member From Class: ClassName=STM32 Member=P13
+Removed Member From Class: ClassName=STM32 Member=P13
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=IIC_SCL Pin=R5-1
+Added Pin To Net: NetName=AGND Pin=R5-1
+Removed Pin From Net: NetName=VCC_3 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R5-2

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P4-5
+Added Component: Designator=R5(0603)
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=AGND Pin=P1-5
+Added Pin To Net: NetName=AGND Pin=P2-5
+Added Pin To Net: NetName=AGND Pin=P3-5
+Added Pin To Net: NetName=AGND Pin=P4-5
+Added Pin To Net: NetName=AGND Pin=R5-1
+Added Net: Name=AGND
+Added Member To Class: ClassName=STM32 Member=Component R5 Res2
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

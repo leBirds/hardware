@@ -1,0 +1,7 @@
+Added Component: Designator=P?(MICRO_USB)
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=VCC12 Pin=P?-4
+Added Member To Class: ClassName=power Member=Component P? Header 4
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

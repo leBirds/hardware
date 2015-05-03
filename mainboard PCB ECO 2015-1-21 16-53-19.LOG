@@ -1,0 +1,5 @@
+Change Component Comment : Designator=P7 Old Comment=Header 4 New Comment=GPS
+Change Net Name : Old Net Name=RX232_TXD New Net Name=RS232_TXD
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

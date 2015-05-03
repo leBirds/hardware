@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PWM_DOWN Pin=U4-11
+Removed Pin From Net: NetName=PWM_LEFT Pin=U4-12
+Removed Pin From Net: NetName=PWM_RIGHT Pin=U4-13
+Removed Member From Class: ClassName=mainboard Member=P?
+Removed Member From Class: ClassName=mainboard Member=P?
+Removed Member From Class: ClassName=mainboard Member=P?
+Removed Member From Class: ClassName=mainboard Member=P?
+Removed Member From Class: ClassName=mainboard Member=P?
+Removed Member From Class: ClassName=mainboard Member=P?
+Added Pin To Net: NetName=CONTOL_DOWN Pin=U4-11
+Added Net: Name=CONTOL_DOWN
+Added Pin To Net: NetName=CONTOL_RIGHT Pin=U4-13
+Added Net: Name=CONTOL_RIGHT
+Added Pin To Net: NetName=CONTOL_UP Pin=U4-12
+Added Net: Name=CONTOL_UP
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=PWM_UP Pin=U4-10
+Added Pin To Net: NetName=CONTROL_LEFT Pin=U4-10

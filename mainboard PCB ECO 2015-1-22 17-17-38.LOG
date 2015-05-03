@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=SWCLK Pin=P5-2
+Added Pin To Net: NetName=SWCLK Pin=U4-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P5-4
+Added Pin To Net: NetName=SWDIO Pin=U4-34
+Added Net: Name=SWDIO
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

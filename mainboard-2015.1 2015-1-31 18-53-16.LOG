@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D3 Old Footprint=LED0603 New Footprint=LED(1206)
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

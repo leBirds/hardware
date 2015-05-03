@@ -1,0 +1,19 @@
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=CONTROL_LEFT Pin=P11-1
+Added Pin To Net: NetName=PWM_LEFT Pin=P11-1
+Removed Pin From Net: NetName=PWM_LEFT Pin=P11-2
+Added Pin To Net: NetName=CONTROL_LEFT Pin=P11-2
+Removed Pin From Net: NetName=CONTROL_RIGHT Pin=P12-1
+Added Pin To Net: NetName=PWM_RIGHT Pin=P12-1
+Removed Pin From Net: NetName=PWM_RIGHT Pin=P12-2
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P12-2
+Removed Pin From Net: NetName=CONTROL_UP Pin=P13-1
+Added Pin To Net: NetName=PWM_UP Pin=P13-1
+Removed Pin From Net: NetName=PWM_UP Pin=P13-2
+Added Pin To Net: NetName=CONTROL_UP Pin=P13-2
+Removed Pin From Net: NetName=CONTROL_DOWN Pin=P14-1
+Added Pin To Net: NetName=PWM_DOWN Pin=P14-1
+Removed Pin From Net: NetName=PWM_DOWN Pin=P14-2
+Added Pin To Net: NetName=CONTROL_DOWN Pin=P14-2

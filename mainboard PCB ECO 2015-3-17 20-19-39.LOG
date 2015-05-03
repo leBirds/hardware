@@ -1,0 +1,7 @@
+Added Component: Designator=R7(0603)
+Added Pin To Net: NetName=IIC_SCL Pin=R7-1
+Added Pin To Net: NetName=VCC_3 Pin=R7-2
+Added Member To Class: ClassName=mainboard Member=Component R7 Res2
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

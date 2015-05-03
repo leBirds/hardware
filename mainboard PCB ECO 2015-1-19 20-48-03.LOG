@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCC Pin=P?-1
+Removed Pin From Net: NetName=GND Pin=P?-2
+Removed Pin From Net: NetName=SWD_DATA Pin=P?-4
+Removed Pin From Net: NetName=SWD_CLK Pin=P?-5
+Removed Pin From Net: NetName=NRST Pin=P?-6
+Removed Member From Class: ClassName=mainboard Member=P2
+Removed Member From Class: ClassName=STM32 Member=P?
+Change Component Comment : Designator=P2 Old Comment=Right New Comment=Header 5
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Member To Class: ClassName=STM32 Member=Component P2 Header 5
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=VCC12 Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-1
+Removed Pin From Net: NetName=PWM_RIGHT Pin=P2-3
+Added Pin To Net: NetName=PWM_RIGHT Pin=P2-3
+Removed Pin From Net: NetName=PWM_RIGHT Pin=P2-3
+Added Pin To Net: NetName=SWD_DATA Pin=P2-3
+Removed Pin From Net: NetName=CONTROL_RIGHT Pin=P2-4
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P2-4
+Removed Pin From Net: NetName=CONTROL_RIGHT Pin=P2-4
+Added Pin To Net: NetName=SWD_CLK Pin=P2-4

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P? Old Footprint=MICRO_USB New Footprint=HDR1X5
+Change Component Comment : Designator=P? Old Comment=Header 4 New Comment=Header 5
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Removed Pin From Net: NetName=VCC12 Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-4

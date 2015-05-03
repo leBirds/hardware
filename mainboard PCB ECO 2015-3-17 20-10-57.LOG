@@ -1,0 +1,9 @@
+Added Component: Designator=P7(HDR1X5)
+Added Pin To Net: NetName=VCC_3 Pin=P7-1
+Added Pin To Net: NetName=SWCLK Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=SWDIO Pin=P7-4
+Added Pin To Net: NetName=NRST Pin=P7-5
+Added Pin To Net: NetName=IIC_SCL Pin=R5-1
+Added Pin To Net: NetName=VCC_3 Pin=R5-2
+Added Member To Class: ClassName=STM32 Member=Component P7 DownLoad

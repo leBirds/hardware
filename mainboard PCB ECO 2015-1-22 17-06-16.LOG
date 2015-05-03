@@ -1,0 +1,33 @@
+Added Component: Designator=R5(0603)
+Added Component: Designator=R6(0603)
+Added Pin To Net: NetName=NRST Pin=R1-1
+Added Pin To Net: NetName=VCC_3 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=6050_INT Pin=U4-11
+Added Pin To Net: NetName=PWM_LEFT Pin=U4-14
+Added Pin To Net: NetName=PWM_RIGHT Pin=U4-15
+Added Pin To Net: NetName=PWM_UP Pin=U4-16
+Added Pin To Net: NetName=PWM_DOWN Pin=U4-17
+Added Pin To Net: NetName=CONTROL_LEFT Pin=U4-25
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=U4-26
+Added Pin To Net: NetName=CONTROL_UP Pin=U4-27
+Added Pin To Net: NetName=CONTROL_DOWN Pin=U4-28
+Added Pin To Net: NetName=DRDY Pin=U2-15
+Added Pin To Net: NetName=DRDY Pin=U4-10
+Added Net: Name=DRDY
+Added Pin To Net: NetName=I2C_SCL Pin=U4-45
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=U4-46
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U4-44
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U4-20
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=STM32 Member=Component R5 Res2
+Added Member To Class: ClassName=STM32 Member=Component R6 Res2
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

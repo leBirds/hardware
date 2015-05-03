@@ -1,0 +1,11 @@
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=PWM_UP Pin=P3-3
+Added Pin To Net: NetName=CONTROL_UP Pin=P3-3
+Removed Pin From Net: NetName=CONTROL_UP Pin=P3-4
+Added Pin To Net: NetName=PWM_UP Pin=P3-4
+Removed Pin From Net: NetName=PWM_DOWN Pin=P4-3
+Added Pin To Net: NetName=CONTROL_DOWN Pin=P4-3
+Removed Pin From Net: NetName=CONTROL_DOWN Pin=P4-4
+Added Pin To Net: NetName=PWM_DOWN Pin=P4-4

@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Comment : Designator=P4 Old Comment=Down New Comment=Header 5
+Change Component Comment : Designator=P1 Old Comment=Left New Comment=Header 5
+Change Component Comment : Designator=P2 Old Comment=Right New Comment=Header 5
+Change Component Comment : Designator=P3 Old Comment=Up New Comment=Header 5
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=PWM_LEFT Pin=P1-3
+Added Pin To Net: NetName=CONTROL_LEFT Pin=P1-3
+Removed Pin From Net: NetName=CONTROL_LEFT Pin=P1-4
+Added Pin To Net: NetName=PWM_LEFT Pin=P1-4
+Removed Pin From Net: NetName=PWM_RIGHT Pin=P2-3
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P2-3
+Removed Pin From Net: NetName=CONTROL_RIGHT Pin=P2-4
+Added Pin To Net: NetName=PWM_RIGHT Pin=P2-4

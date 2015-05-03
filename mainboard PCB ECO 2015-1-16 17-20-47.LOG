@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=VCC Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Removed Member From Class: ClassName=mainboard Member=C?
+Change Component Footprint: Designator=C19 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=C29 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=R? Old Footprint=AXIAL-0.4 New Footprint=0603
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Comment : Designator=U1 Old Comment=LDO New Comment=MPU-6050
+Change Component Designator: OldDesignator=C10_1 NewDesignator=C9
+Change Component Designator: OldDesignator=C19 NewDesignator=C14
+Change Component Designator: OldDesignator=C29 NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Component: Designator=C7(0603)
+Added Component: Designator=C10(0603)
+Added Component: Designator=U3(SOT-223)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VDD Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=VCC Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC Pin=C12-2
+Added Pin To Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=NRST Pin=C17-2
+Added Pin To Net: NetName=VCC12 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=PWM_LEFT Pin=P1-3
+Added Pin To Net: NetName=CONTROL_LEFT Pin=P1-4
+Added Pin To Net: NetName=VCC12 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=PWM_RIGHT Pin=P2-3
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P2-4
+Added Pin To Net: NetName=VCC12 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=PWM_UP Pin=P3-3
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Change Net Name : Old Net Name=CONTROL_UP New Net Name=CONTROL_DOWN
+Added Pin To Net: NetName=CONTROL_UP Pin=P3-4
+Added Net: Name=CONTROL_UP
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U3-1
+Added Net: Name=NetC7_2
+Added Class: Name=power
+Added Member To Class: ClassName=mainboard Member=Component C1 Cap
+Added Member To Class: ClassName=mainboard Member=Component C2 Cap
+Added Member To Class: ClassName=mainboard Member=Component C3 Cap
+Added Member To Class: ClassName=mainboard Member=Component C4 Cap
+Added Member To Class: ClassName=mainboard Member=Component C5 Cap
+Added Member To Class: ClassName=mainboard Member=Component C6 Cap
+Added Member To Class: ClassName=STM32 Member=Component C11 Cap
+Added Member To Class: ClassName=STM32 Member=Component C12 Cap
+Added Member To Class: ClassName=STM32 Member=Component C15 Cap
+Added Member To Class: ClassName=STM32 Member=Component C17 Cap
+Added Member To Class: ClassName=mainboard Member=Component P2 Right
+Added Member To Class: ClassName=mainboard Member=Component P3 Up
+Added Member To Class: ClassName=mainboard Member=Component P4 Down
+Added Member To Class: ClassName=mainboard Member=Component U1 MPU-6050
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

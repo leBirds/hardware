@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C11 Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C13 Old Footprint=RAD-0.3 New Footprint=0603
+Change Component Footprint: Designator=C15 Old Footprint=RAD-0.3 New Footprint=0603
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

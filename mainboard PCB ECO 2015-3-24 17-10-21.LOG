@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NRST Pin=P7-5
+Removed Pin From Net: NetName=VCC_3 Pin=P9-1
+Removed Pin From Net: NetName=GND Pin=P9-2
+Removed Pin From Net: NetName=BLUETOOTH_RXD Pin=P9-3
+Removed Pin From Net: NetName=BLUETOOTH_TXD Pin=P9-4
+Removed Member From Class: ClassName=mainboard Member=P15
+Removed Member From Class: ClassName=power Member=P15
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X5 New Footprint=HDR1X4
+Change Component Comment : Designator=P15 Old Comment= New Comment=BlueTooth
+Change Component Designator: OldDesignator=P15 NewDesignator=P9
+Added Component: Designator=P15(HDR1X4)
+Added Pin To Net: NetName=VCC_3 Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Pin To Net: NetName=BLUETOOTH_RXD Pin=P9-3
+Added Pin To Net: NetName=BLUETOOTH_TXD Pin=P9-4
+Added Member To Class: ClassName=mainboard Member=Component P11 Header 3
+Added Member To Class: ClassName=STM32 Member=Component P15 RS232
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

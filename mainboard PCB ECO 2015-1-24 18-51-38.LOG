@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BLUETOOTH_RXD Pin=P9-3
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32

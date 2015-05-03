@@ -1,0 +1,34 @@
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Added Pin To Net: NetName=VCC12 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=CONTROL_LEFT Pin=P?-4
+Added Pin To Net: NetName=CONTROL_RIGHT Pin=P?-4
+Added Pin To Net: NetName=GND Pin=U1-1
+Change Net Name : Old Net Name=CONTROL_UP New Net Name=CONTROL_DOWN
+Added Pin To Net: NetName=CONTROL_UP Pin=P?-4
+Added Net: Name=CONTROL_UP
+Added Class: Name=power
+Added Member To Class: ClassName=mainboard Member=Component C? Cap
+Added Member To Class: ClassName=mainboard Member=Component C? Cap
+Added Member To Class: ClassName=mainboard Member=Component C? Cap
+Added Member To Class: ClassName=mainboard Member=Component C? Cap
+Added Member To Class: ClassName=mainboard Member=Component C? Cap
+Added Member To Class: ClassName=STM32 Member=Component C? Cap
+Added Member To Class: ClassName=STM32 Member=Component C? Cap
+Added Member To Class: ClassName=STM32 Member=Component C? Cap
+Added Member To Class: ClassName=STM32 Member=Component C? Cap
+Added Member To Class: ClassName=mainboard Member=Component P? Right
+Added Member To Class: ClassName=mainboard Member=Component P? Up
+Added Member To Class: ClassName=mainboard Member=Component P? Down
+Added Room: Name=mainboard
+Added Room: Name=power
+Added Room: Name=STM32
+Removed Pin From Net: NetName=VDD Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=PWM_UP Pin=P?-3
+Added Pin To Net: NetName=PWM_DOWN Pin=P?-3
